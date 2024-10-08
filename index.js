@@ -1,6 +1,6 @@
 // * ARRAYS PROBLEM SOVLING QUESTIONS
 
-// ? FLATTEND 2D ARRAY INTO 1D ARRAY
+// ? (1) FLATTEND 2D ARRAY INTO 1D ARRAY
 // function flattenArray(arr) {
 //   let flattenVal = [];
 //   function flatten(current) {
@@ -18,7 +18,7 @@
 // let arr = [1, 2, 4, [5, 6, 7], 8, [9, 10, 11]];
 // console.log(flattenArray(arr));
 
-// ? Find the largest number in an array.
+// ? (2) Find the largest number in an array.
 // function checkLargestNum() {
 //   let arr = [1, 2, 5, 6, 36, 27, 2037, 2783];
 //   let largestNum;
@@ -29,14 +29,14 @@
 // }
 // console.log(checkLargestNum());
 
-// ? Join all elements of an array into a single string.
+// ? (3) Join all elements of an array into a single string.
 // function joinArrInStr() {
 //   let arr = ["hello worl", "how are you"];
 //   return arr.join("");
 // }
 // console.log(joinArrInStr());
 
-// ? Merge two arrays into one.
+// ? (4) Merge two arrays into one.
 // function mergeArr() {
 //   let arr1 = [1, 2, 3, 4, 5, 6];
 //   let arr2 = [7, 8, 9, 10];
@@ -45,7 +45,7 @@
 // }
 
 // console.log(mergeArr());
-// ? Find the sum of all numbers in an array.
+// ? (5) Find the sum of all numbers in an array.
 // function sumAllNum() {
 //   let arr = [1, 2, 3, 4, 5, 2, 8, 5];
 //   let result = 0;
@@ -57,7 +57,7 @@
 
 // console.log(sumAllNum());
 
-// ? Find the difference between the largest and smallest numbers in an array.
+// ? (6) Find the difference between the largest and smallest numbers in an array.
 
 // function findDeference() {
 //   let arr = [1, 2, 3, 4, 5, 2, 8, 5, 12];
@@ -73,7 +73,7 @@
 // }
 
 // console.log(findDeference());
-// ? Replace all occurrences of a value in an array.
+// ? (8) Replace all occurrences of a value in an array.
 
 // function replaceAccurance(arr, targetValu, newVal) {
 //   for (let i = 0; i < arr.length; i++) {
